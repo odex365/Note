@@ -1,0 +1,5 @@
+甲骨文vps dd脚本
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/odex365/Note/master/InstallNET.sh') -u 版本号 -v 64 -p "密码" -port "22"
+-u (ubuntu)
+-d (debian)
+-v (系统位数)
